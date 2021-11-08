@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonathandkim96
 - 👀 I’m interested in creating digital NFT's
-- 🌱 I’m currently a student at the Computer Science Master's program at Steven's Institute
+- 🌱 I’m currently a student at the Computer Science Master's program at Steven's Institute of Technology
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me : kimjonathan360@gmail.com
 
